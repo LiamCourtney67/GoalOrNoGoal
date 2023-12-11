@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ This\ is\ used\ as\ the\ first\ ball\ spawned\ in\ heading\ towards\ the\ player\ for\ them\ to\ interact\ with.\r\n\ \r\n\ @author\ Liam\ Courtney\ \r\n\ @version\ 2.0\r\n
+comment1.params=corner
+comment1.target=Ball(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ball.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveTowardsLeft()
+comment4.params=
+comment4.target=void\ moveTowardsRight()
+comment5.params=
+comment5.target=void\ despawn()
+numComments=6

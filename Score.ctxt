@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ This\ is\ the\ score\ counter\ used\ to\ keep\ track\ of\ the\ score.\r\n\ \r\n\ @author\ Liam\ Courtney\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Score()
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ the\ Score\ class.\r\n
+comment2.params=amount
+comment2.target=void\ addScore(int)
+numComments=3

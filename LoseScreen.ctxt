@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoseScreen
+comment0.text=\r\n\ This\ is\ the\ world\ that\ is\ loaded\ when\ the\ player\ runs\ out\ of\ lives.\r\n\ \r\n\ @author\ Liam\ Courtney\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LoseScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoseScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
